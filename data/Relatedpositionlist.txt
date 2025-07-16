@@ -1,0 +1,8 @@
+Roles Related to Data Analyst
+Title	Key Focus
+Business Analyst	Business processes, KPIs, stakeholder reporting
+Product Analyst	Product usage, A/B testing, retention analysis
+Marketing Analyst	Campaign ROI, lead conversion rates
+Operations Analyst	Workflow optimization, process automation
+Financial Analyst (Data-heavy)	Forecasting, profitability, budget tracking
+

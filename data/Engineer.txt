@@ -1,0 +1,16 @@
+Data Engineer
+Top Companies:
+Snowflake, Databricks, Amazon
+
+Shopify, IBM, RBC, Capital One
+
+Core Skills:
+Python, SQL, Scala
+
+ETL pipelines (Airflow, DBT)
+
+Big Data (Spark, Hadoop), Cloud (AWS/GCP)
+
+Career Path:
+Data Engineer → Senior Data Engineer → Data Architect / Engineering Manager
+

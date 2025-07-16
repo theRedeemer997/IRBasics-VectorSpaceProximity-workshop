@@ -1,0 +1,9 @@
+Skills That Top Companies Expect
+Most leading employers expect proficiency in:
+
+Category	Tools/Skills
+Data Manipulation	SQL, Excel, Python (Pandas)
+Data Visualization	Tableau, Power BI, Looker, matplotlib/seaborn
+Statistical Analysis	A/B testing, hypothesis testing, regression
+Reporting	Dashboards, automated reports, KPI tracking
+Soft Skills	Communication, business acumen, critical thinking

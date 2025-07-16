@@ -1,0 +1,17 @@
+Data Scientist
+Top Companies:
+Meta, DeepMind, OpenAI, IBM Research
+
+Amazon, Microsoft AI, Nvidia
+
+Manulife, TD Innovation Lab
+
+Core Skills:
+Python, R, Machine Learning (scikit-learn, TensorFlow)
+
+Statistics, Deep Learning, NLP
+
+Model deployment (Flask, Docker, AWS)
+
+Career Path:
+Data Scientist → ML Engineer / Lead Scientist → AI Researcher / Director of Data Science

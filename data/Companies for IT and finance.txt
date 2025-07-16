@@ -1,0 +1,15 @@
+Company	-Why It's Great
+Google	-Data-driven culture, advanced analytics, competitive pay
+Microsoft	-Diverse analytics roles across Azure, Office, and internal ops
+Amazon	-Massive data infrastructure, roles in logistics, retail, and AWS
+Meta -(Facebook)	High-impact roles in product analytics and user behavior
+Netflix	Strong focus on data-driven content and personalization
+
+
+Finance & Fintech
+Company	Why It's Great
+JPMorgan Chase	Huge datasets, risk analytics, fraud detection
+Goldman Sachs	Quantitative modeling, market trends
+Stripe	Payments data analysis, product insights
+PayPal	Transaction analysis, fraud detection
+

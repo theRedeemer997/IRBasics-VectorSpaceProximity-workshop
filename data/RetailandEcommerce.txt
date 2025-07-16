@@ -1,0 +1,11 @@
+Company	Why It's Great
+Walmart	Supply chain and customer analytics at scale
+Target	Strong business intelligence infrastructure
+Shopify	E-commerce data, marketing and customer behavior analysis
+
+
+Healthcare & Pharma
+Company	Why It's Great
+Johnson & Johnson	Clinical and market data
+Pfizer	R&D and trial data analysis
+UnitedHealth Group	Claims, health trends, predictive analytics

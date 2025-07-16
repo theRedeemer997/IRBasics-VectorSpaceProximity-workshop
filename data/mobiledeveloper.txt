@@ -1,0 +1,79 @@
+About the job
+Department: Technology & Product
+Location: Remote, Canada
+
+
+Description
+
+Building innovative solutions; enabling safer workplaces for everyone.
+
+We’ll create a safer working world, building software to support a global network of responsible buyers, suppliers and partners. 
+
+Today, at Alcumus we take the pain out of compliance for over 50,000 organisations globally, helping them protect their people, their operations, and the planet.
+
+Keeping our network of hiring clients, suppliers, and contractors compliant with the standards that matter most, from health and safety and sustainability to ethical behaviour by building best in class solutions.
+
+The tech we build today, will create a better tomorrow.
+
+We’re looking for a Mobile Developer – React Native to join our technology team and help build innovative mobile experiences for our customers and workforce. In this role, you’ll be responsible for developing, testing, and maintaining high-performance mobile applications for both Android and iOS, using React Native. Your work will directly contribute to ensuring the safety and compliance of workers in the field.
+
+What that means day-to-day: 
+
+Design, build, and maintain scalable React Native applications for iOS and Android platforms.
+Collaborate with backend developers, product managers, and designers to deliver seamless mobile features.
+Write well-tested, efficient, and maintainable code using modern JavaScript and TypeScript.
+Troubleshoot, debug, and optimize app performance, ensuring a smooth user experience.
+Maintain documentation and contribute to the improvement of mobile development standards.
+Support deployment processes and assist with submission to the App Store and Google Play.
+Continuously research and recommend new technologies or improvements.
+
+What you’ll need to be successful: 
+
+3+ years of professional experience in mobile development using React Native.
+Strong understanding of JavaScript/TypeScript and asynchronous programming.
+Experience with .NETCore, C#, React
+Familiarity with native mobile development (Swift, Kotlin, or Java) is an asset.
+Experience integrating APIs, Firebase, push notifications, and third-party libraries.
+Knowledge of Git, CI/CD, testing frameworks, and Agile methodologies.
+Experience with mobile design patterns, responsive UI, and app lifecycle management.
+Strong communication and collaboration skills.
+
+What you’ll get in return: 
+
+Alcumus has a hybrid workplace policy. We want you to be able to do your best work here. We emphasize providing many ways to support our team to do their best work, and believe that if you look after your people, they look after everything else!
+
+
+Personal Health & Wellbeing
+
+
+>🧠 Integrated mental health & wellbeing support
+
+>🌴 Vacation – starting at 3 weeks
+
+>💟 Wellness Days & Annual Giving Day – an extra to give back to yourself or your community
+
+>🩺 Comprehensive medical and dental coverage
+
+> 😴 End of the year, company-wide shut down for you to relax and recharge
+
+Future Planning
+
+>🏫 LinkedIn Learning License for upskilling & development
+
+Interested but don’t feel you meet all the requirements?
+
+
+Our recruitment team assesses and reviews all applications against the role and business needs. We believe in people having transferable and soft skills and want you to know that we consider applications that might not meet all the criteria, but have the aptitude and capability, nonetheless. Our priority is to ensure we set people up for success. We will make a final call based on our determining whether we can offer the necessary support to upskill or provide the developmental support needed for you to get the best out of this opportunity with us!
+
+Bring Your Whole Self to Work.
+
+
+Alcumus is proudly an equal-opportunity employer. We are committed to ensuring that no candidate is discriminated against because of gender identity and expression, race, disability, ethnicity, sexual orientation, age, colour, region, creed, national origin, or sex. We are dedicated to growing a diverse team while continuing to create an inclusive environment where everyone feels safe and empowered to be themselves.
+
+What you can expect if you apply:
+A response to your application within 15 working days
+An interview process consisting of:
+An initial discovery call with the recruiter
+A first stage interview via Microsoft Teams
+Additional interview with the stakeholders you’ll be working with closely in the role
+We’re keen to ensure our hiring process allows you to be at your best, so if you need us to make any adjustments, please just let us know.

@@ -1,0 +1,8 @@
+Variety of Industries
+Industry	How Data Analysts Contribute
+Tech	User behavior, A/B testing, product usage
+Finance	Credit risk, customer churn, fraud detection
+Retail	Sales forecasting, customer segmentation
+Healthcare	Clinical data analysis, insurance claims, cost prediction
+Supply Chain	Inventory optimization, route planning, real-time tracking
+Marketing	Campaign performance, attribution modeling design systems

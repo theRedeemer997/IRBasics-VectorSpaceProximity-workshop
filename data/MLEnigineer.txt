@@ -1,0 +1,15 @@
+. Machine Learning Engineer
+Top Companies:
+Google AI, Tesla, Hugging Face, Amazon Robotics
+
+Microsoft Azure ML, Palantir, NVIDIA
+
+Core Skills:
+Python, TensorFlow/PyTorch
+
+Feature engineering, MLOps (MLFlow, CI/CD)
+
+Deep learning, model optimization
+
+Career Path:
+ML Engineer → Applied Scientist / ML Lead → Research Scientist / AI Engineering Manager

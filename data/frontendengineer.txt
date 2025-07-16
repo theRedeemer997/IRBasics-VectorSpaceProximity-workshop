@@ -1,0 +1,62 @@
+About the job
+EvenUp is one of the fastest-growing generative AI startups in history, on a mission to level the playing field for personal injury victims, which range from motor vehicle accidents to child abuse cases. Our products empower law firms to secure faster settlements, higher payouts, and better outcomes for those who need it most.
+
+We are seeking a Frontend Software Engineer to join our Toronto team and help us build a world-class engineering organization as part of our Canadian expansion. As we grow our presence in the Toronto area, we’re looking for engineers who are passionate about user experience, performance, and building beautiful, scalable web applications. You’ll be part of a talented, collaborative team focused on delivering exceptional UI and client-side architecture for an AI-powered platform that’s redefining the future of legal services.
+
+This is a hybrid role with 3 days per week spent collaborating in our Toronto office. 
+
+What You'll Do:
+
+Design and implement high-performance, accessible, and elegant user interfaces for EvenUp’s AI-driven platform
+Collaborate closely with product, design, and backend teams to bring new features to life with exceptional quality and responsiveness
+Contribute to frontend architecture for major product surfaces, ensuring maintainability, performance, and scalability
+Develop and maintain design system components and shared libraries to streamline frontend development across teams
+Optimize web applications for speed, accessibility, SEO, and responsiveness across devices and browsers
+Contribute to engineering culture by mentoring peers and promoting best practices in frontend development
+Play a key role in complex engineering projects from ideation to deployment in a fast-paced, startup environment
+
+What We Look For:
+
+Deep experience with modern frontend technologies like React (or similar frameworks like Vue or Svelte), TypeScript, HTML5, CSS3 (including preprocessors like Sass or styled-components), and modern build tools like Vite or Webpack
+Strong understanding of state management (e.g., Redux, Zustand, Jotai) and modern frontend architecture patterns
+Experience with design systems, component libraries, and UI/UX collaboration workflows using tools like Figma
+Solid understanding of web performance, accessibility (a11y), and responsive design
+Experience with frontend testing tools (e.g., Jest, React Testing Library, Cypress) and version control (Git)
+Familiarity with frontend deployment strategies and CI/CD pipelines
+Proven track record of shipping user-facing products in a fast-paced, high-growth environment
+Excellent communication and collaboration skills with cross-functional teams
+
+Bonus Points:
+
+Experience working on AI-driven or data-heavy applications
+Knowledge of backend integration best practices (e.g., GraphQL, REST APIs)
+Familiarity with SSR frameworks (e.g., Next.js), server components, or edge rendering
+Experience with cloud platforms like Vercel, Netlify, or AWS Amplify
+
+Notice to Candidates:
+
+EvenUp has been made aware of fraudulent job postings and unaffiliated third parties posing as our recruiting team – please know that we have no affiliation or connection to these situations. We only post open roles on our career page (https://jobs.ashbyhq.com/evenup) or reputable job boards like our official LinkedIn or Indeed pages, and all official EvenUp recruitment emails will come from the domains @evenuplaw.com, @evenup.ai, @ext-evenuplaw.com or no-reply@ashbyhq.com email address.
+
+If you receive communication from someone you believe is impersonating EvenUp, please report it to us by emailing talent-ops-team@evenuplaw.com. Examples of fraudulent email domains include “careers-evenuplaw.com” and “careers-evenuplaws.com”. 
+
+Benefits & Perks:
+
+Our goal is to empower every team member to contribute to our mission of fostering a more just world, regardless of their role, location, or level of experience. To that end, here is a preview of what we offer:
+
+Choice of medical, dental, and vision insurance plans for you and your family
+Flexible paid time off
+10 US observed holidays, and Canadian statutory holidays by province
+A home office stipend
+401(k) for US-based employees
+Paid parental leave
+Sabbatical program
+A meet-up program to get together in person with colleagues in your area
+Offices in San Francisco and Toronto
+
+Please note the above benefits & perks are for full-time employees 
+
+About EvenUp:
+
+EvenUp is on a mission to level the playing field in personal injury cases. EvenUp applies machine learning and its AI model known as Piai™ to reduce manual effort and maximize case outcomes across the personal injury value chain. Combining in-house human legal expertise with proprietary AI and software to analyze records. The Claims Intelligence Platform™ provides rich business insights, AI workflow automation, and best-in-class document creation for injury law firms. EvenUp is the trusted partner of personal injury law firms. Backed by top VCs, including Bessemer Venture Partners, Bain Capital Ventures (BCV), SignalFire, NFX, DCM, and more, EvenUp’s customers range from top trial attorneys to America’s largest personal injury firms. EvenUp was founded in late 2019 and is headquartered in San Francisco. Learn more at www.evenuplaw.com.
+
+EvenUp is an equal opportunity employer. We are committed to diversity and inclusion in our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
